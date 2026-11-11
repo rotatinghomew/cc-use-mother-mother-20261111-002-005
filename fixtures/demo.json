@@ -1,0 +1,19 @@
+{
+  "case_id": "demo-001",
+  "subject_id": "synthetic-person-01",
+  "category": "screening",
+  "region": "synthetic-county",
+  "event_date": "2026-11-11",
+  "status": "new",
+  "count": 68,
+  "total": 100,
+  "attributes": {
+    "source": "local synthetic fixture"
+  },
+  "tags": [
+    "cancer-prevention",
+    "offline"
+  ],
+  "source_system": "fixture",
+  "revision": 0
+}
